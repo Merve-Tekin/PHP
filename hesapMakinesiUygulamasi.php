@@ -11,7 +11,7 @@
 <br>
 <br/>
 
-<P style="color:red;">181307044 Merve TEKİN</P>
+<P style="color:red;">Merve TEKİN</P>
 <form method="GET" action="#">
 	<table>
 		<tr>
